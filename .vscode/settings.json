@@ -1,5 +1,6 @@
 {
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "cSpell.words": ["possiblecharanters"]
+  "cSpell.words": ["possiblecharanters"],
+  "editor.formatOnPaste": true
 }
